@@ -33,6 +33,15 @@
 
 C172 STANDARD OPERATING PROCEDURESLIST OF CHANGES
 
+Complete change history of this document can be found in the repository.
+https://github.com/ProStandards/c172-sop
+
+V2.2 22 Jan 2022
+Before Start - Added Master Switch
+Added Landings Section
+	Added Go-Around Procedures
+Added Cruise Maneuvers Section
+	Added Pre-Maneuver Flow
 
 V2.0 20 Dec 2021
 Pro Standards Brand
@@ -44,14 +53,12 @@ Before Taxi - Departure changed to Takeoff
 Decent - Arrival changed to Approach
 Decent - Errors corrected in checklist
 
-
 V1.2 12 Nov 2021
 Update Introduction
 Before Takeoff - Checklist formatting 
 Takeoff - Changed to “runway ___ confirmed”.
 
 V1.1 07 Nov 2021
-
 Introduction - Change PF / PM checklist responsibilities
 Change PF / PM on checklist call out
 Shutdown / Secure - Change postflight responsibilities 
@@ -157,8 +164,11 @@ Fasten safety belts and shoulder harnesses.
 
 If there are sustained temperatures below 0 degrees, reference cold weather operations.
 
+Batter Master Switch as necessary for before start operations
+
 FLOWS
 
+Battery Master Switch - On
 Fuel Selector - Both
 Trim - Takeoff
 Mixture - Below 3,000 MSL the mixture should be set to full rich for start. Above 3,000 MSL the mixture should be leaned one inch of travel.
@@ -404,7 +414,25 @@ Lights - For high traffic volume areas leave all lights on. Otherwise, turn off 
 CHECKLISTS
 
 
-DESCENT
+MANEUVERS
+
+Pre-Maneuver Flow
+
+The Pre-Maneuver Flow should be done prior to each maneuver conducted. Use the CARE acronym to complete this task.
+
+Clearing Turns
+Look for traffic under the raised wing
+Two 90° turns in opposite directions
+One 180° turn 
+Attitude
+Ensure you are at the proper altitude and airspeed for the maneuver
+Note your altitude, airspeed and heading for the maneuver
+Radio Call
+Announce your intentions for maneuvering on the appropriate frequency (122.75)
+Include tail number, locations, altitude and intentions.
+Emergency Landing 
+Brief emergency landing scenarios in the event of an engine failure.
+Determine the best location for an emergency landing.DESCENT
 
 TASKS
 
@@ -464,7 +492,47 @@ CHECKLISTS
 
 
 
-AFTER LANDING
+LANDINGS
+
+Normal and Crosswind Landing
+
+Short Field Landing
+
+Soft Field Landing
+
+Power-Off 180 Landing
+
+Instrument Landing
+
+Missed Approach
+
+Go-Around
+
+Initiating a Go-Around
+
+A Go-Around should be initiated any time at the discretion of the pilot flying (PF). Conditions that should automatically initiate a go-around include:
+	
+Unstable approach
+Low-level Wind Shear (LLWS)
+Traffic on the runway within 3,000 feet of the aircraft
+ATC request
+
+Procedure
+
+The pilot flying initiates the go-around by making the standard call out, adding full power and being the flap retraction sequence. 
+
+PF “Go-around, flaps 20”
+Add full power
+Retract flaps to the 20° position
+Pitch for the horizon to level off and begin accelerating
+Once there is a trend reversal on the VSI, retract flaps to 10° position
+Accelerating through Vy, retract flaps to 0° / UP position
+Above 1,000’ AGL complete the climb checklist
+
+
+
+
+Aborted / Bounced LandingAFTER LANDING
 
 TASKS
 
