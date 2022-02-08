@@ -1,0 +1,589 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C172 STANDARD OPERATING PROCEDURESLIST OF CHANGES
+
+Complete change history of this document can be found in the repository.
+https://github.com/ProStandards/c172-sop
+
+V2.2 22 Jan 2022
+Before Start - Added Master Switch
+Added Landings Section
+	Added Go-Around Procedures
+Added Cruise Maneuvers Section
+	Added Pre-Maneuver Flow
+	Cruise Checklist Complete
+
+V2.0 20 Dec 2021
+Pro Standards Brand
+Revision date format
+Introduction - Areas of Vulnerability 
+Before Taxi - Flight Instruments Typo
+Before Taxi - Bugs removed from checklist
+Before Taxi - Departure changed to Takeoff
+Decent - Arrival changed to Approach
+Decent - Errors corrected in checklist
+
+V1.2 12 Nov 2021
+Update Introduction
+Before Takeoff - Checklist formatting 
+Takeoff - Changed to “runway ___ confirmed”.
+
+V1.1 07 Nov 2021
+Introduction - Change PF / PM checklist responsibilities
+Change PF / PM on checklist call out
+Shutdown / Secure - Change postflight responsibilities 
+Added this list of changes
+
+INTRODUCTION
+
+This checklist and the operation of the Cessna C172 is designed to meet the standards of professional aviation. The intent in to prepare pilots to the highest possible standards of aviation and professionalism.
+
+The general philosophy is DO-VERIFY method of checklists. This means all the items are completed from memory prior to doing the checklist. Then the items are verified using the checklist. 
+
+There are two categories of items, Tasks and Flows. Tasks are items to be completed by the pilot as soon as practical, in any order. Tasks are often more complex and require more attention than Flows. Tasks are all completed prior to doing the flow. Flows are quick patterns to change the configuration of the aircraft.
+
+Once all tasks and flows are completed, the checklist can be preformed.
+
+Checklists should always be performed in the following order:
+	
+	Memory Items 
+	Quick Reference Items
+	Emergency Checklist
+	Abnormal Checklist
+	Normal Checklist
+
+When operating as a crew the PM (pilot monitoring) should conduct the checklists, to allow the PF (pilot flying) to maintain focus on the flight path management. The PF should verify the tasks are complete, perform the appropriate flow, then call for the checklist from the PM.
+
+When in the training environment the student does single pilot items. The instructor will verify the PF items in the checklist.
+
+Areas of Vulnerability 
+
+Areas of vulnerability are times during flight which deviations are most likely to occur and require prioritization of flight path management. During Areas of Vulnerability all non-critical tasks should be deferred until the aircraft is in a stable condition.
+
+Areas of Vulnerability:
+	Taxi
+	Takeoff
+	Within 100’ of level off
+	Landing
+	Crossing RunwaysFFOD (FIRST FLIGHT OF THE DAY)
+
+TASKS
+
+PASSENGER BRIEFING
+
+The PIC is responsible for briefing the passengers aboard the aircraft. The following briefing items are required:
+	
+	Smoking
+	Location of exits
+	Use of safety belts
+	Location and use of flotation devices
+	Location of survival equipment
+	Location of fire extinguisher
+	Sterile Cockpit
+
+Example: “This is a non smoking flight. Safety belts are required for taxi, takeoff and landing. Use them by inserting the metal fitting into the buckle. Lift the latch to release. There are three exits on the airplane. Two front doors, lift the handle to open the door, and the aft baggage compartment door. (If required) There are life jackets in the baggage compartment. Place them over your head and tighten the buckle. There is a fire extinguisher in between the front seats. Pull the pin and aim at the fire in a sweeping movement. During taxi, takeoff, climb and landing we will keep talking to essential items only to prevent distraction.”
+
+
+CREW BRIEFING
+
+The First Flight of the Day crew briefing is meant to establish positive communication for crew members. The following items should be briefed:
+
+	Establish the PIC
+	Positive transfer of flight controls
+	Emergency operation duties and responsibilities
+
+Example (Student Pilot): “I will be acting as PIC of the flight, however final authority will be with the instructor. We will use the three-step method to transfer flight controls. Initiated by saying ‘my flight controls’ verified by ‘your flight controls’ and confirmed by saying ‘your flight controls.’ During an emergency the pilot flying will continue flying while the pilot monitoring does the flow items and emergency checklist. Once the checklist is complete we can transfer controls if necessary.”
+	
+
+AIRWORTHINESS ACCEPTANCE
+
+FAR 91.7 - The PIC is responsible for determining whether the aircraft is in a condition safe for flight. The PIC should begin by checking the aircraft status to verify the inspections are current, and the hobbs and tach time match.
+
+Use the AVIATED acronym to check for the following inspections: Annual, VOR Check, 100 Hour, Altimeter and Pitot Static System, Transponder, ELT and Airworthiness Directives.
+
+Additionally, The PIC should ensure the required documents are onboard the aircraft using the ARROWPC acronym. The documents include: Airworthiness Certificate, Registration (Federal), Radio Operators Permit (International Operations), Operating Limitations, Weight and Balance Data, Placards, and Compass Card.
+
+ The PIC should, by means of external inspection verify the required equipment of 91.205 are operational. If there is any inoperative equipment, the PIC should verify the deferral of the equipment is completed in accordance with 91.213(d) and does not interfere with the safety of flight. 
+
+PREFLIGHT
+
+FAR 91.103 - The following items are required preflight action:
+
+	Runway Lengths
+	Takeoff and Landing Distances
+	Fuel Requirements
+	IFR Alternates
+	Weather Reports and Forecasts
+	ATC Delays
+
+The PIC should also be familiar with all available information including NOTAMs.
+
+An external inspection of the aircraft should be completed in accordance with the POH before each flight.
+ 
+FLOWS
+
+NOT APPLICABLE 
+
+CHECKLISTS
+
+BEFORE START
+
+TASKS
+
+Fasten safety belts and shoulder harnesses.
+
+If there are sustained temperatures below 0 degrees, reference cold weather operations.
+
+Batter Master Switch as necessary for before start operations
+
+FLOWS
+
+Battery Master Switch - On
+Fuel Selector - Both
+Trim - Takeoff
+Mixture - Below 3,000 MSL the mixture should be set to full rich for start. Above 3,000 MSL the mixture should be leaned one inch of travel.
+Interior Lights - During daytime operations the interior lights should be turned off and the brightness adjusted on the GPS and electronic instruments. During nighttime operations the dome light, GPS and electronic flight instruments should be adjusted to the lowest visible level. This will promote night vision. As your eyes adapt you will be able to dim the lights more.
+Exterior Lights - The Nav light should remain on for all operations to indicate the application of power to the aircraft. Additionally, the Nav light should remain on during flight to power the ADS-B out. The Beacon should be turned on prior to starting the engine. The taxi light is used to indicate movement on the surface. Prior to taxing the light should be turn on and once the aircraft is stopped (runup or waiting clearance) the light should be turned off. Finally, the taxi light should be turned off to indicate giving way to another aircraft an taxiway intersections. The strobe light should only be used when on the runway. When crossing a runway all the external lights should be turned on.
+Carburetor Heat - Off
+Circuit Breakers - Verify all are in
+Avionics Switch - Off
+Prime - Check the oil temperature gauge prior to priming the aircraft. If the gauge is indicating in the green no prime is required for start. If the oil temperature is below the green use three strokes of the primer. Insure the primer is locked when complete.
+
+
+
+CHECKLISTS
+
+Engine Starting
+
+TASKS
+
+Visually and audibly clear the area to ensure it is safe to start the engine. Look for any movement, people or vehicles in the area. 
+
+DO NOT START IF THE FUEL TRUCK IS AT AN ADJACENT AIRPLANE.   
+
+FLOWS
+
+Brakes - Hold
+Ignition Switch - turn to start, release when engine begins to fire.
+Throttle - Adjust RPM to 1000
+Engine instruments - Oil pressure should indicate at least 25 PSI and be rising. 
+Ammeter - Verify charging
+Annunciators - Check the low voltage light, electronic flight instruments, and GPS
+Mixture - Lean one inch for taxi
+Flaps - Set flaps to the up position or 10 for soft field takeoff
+Avionics Switch - On
+Establish crew and passenger communications.
+
+Checklist
+
+BEFORE TAXI
+
+TASKS
+DEPATURE BRIEFING
+
+Copy the ATIS / ASOS in preparation for the departure briefing.
+
+The Departure Briefing should have the following information:
+
+	Weather
+
+	Brief the current weather, any associated hazards and implications on flight. Key items 			include wind, visibility, clouds, altimeter setting and low level wind shear.
+
+	Departure Procedures
+
+	Starting at the aircrafts present location, brief taxi route, hot spots, runway lengths, 			emergency procedures on departure, and departure procedures.
+
+	NOTAMS
+
+	Review any NOTAMS effecting the departure.
+
+	Threats
+
+	Brief the greatest threats to the departure. Examples include, IFR conditions, CFIT, 			traffic congestion, LLWS and unfamiliar or complex procedures. Discuss ways to 			mitigate the threats.
+
+Example: “Information BRAVO is current, Skies are clear, altimeter is 29.92 and there is a five knot crosswind from the left. We are at transient parking, we will taxi via HOTEL and ALPHA to runway 28R using cation for hotspot three. 28R is 4,598 feet long with a displaced threshold. We require 1,200 feet for takeoff. If there are any critical abnormalities, caution or warning messages on takeoff roll we will abort, stop the aircraft and assess the situation. Clearing the runway if possible. After takeoff, if there is an engine failure or fire will will do the appropriate memory item, followed by the checklist and plan to land off field. We are departing straight out to 3,500 feet. Our greatest on departure is traffic congestion in the pattern and incoming traffic from the coast. We will mitigate the threats by keeping our eyes outside and scanning for traffic.”
+FLIGHT PLAN
+
+The PF should build the flight plan in the GPS. If a clearance is associated with the departure procedures ensure that the procedure in built in the navigation system. After entering the appropriate waypoints the PF should verify the route on the map page. This will ensure there are no erroneous fixes entered. The PM or Instructor will verify the fixes. 
+
+The PF should build the VNAV profile by entering the cruise altitude after the top of climb and entering patter altitude 1NM prior to the destination airport, for decent planning. For IFR flights the departure, arrival and approach procedures will contain VNAV information. The PF should enter the cruising altitude and verify the VNAV restorations match with a current instrument procedure chart.
+
+The PF should also verify all LRUs are operational for every flight. For IFR flights the PF should ensure WAAS, RAIM or EPU will be available depending on the type of operations being conducted. 
+
+Once the flight plan has been built and verified the PF should bug the flight instruments in accordance with the departure plan. This should include heading, airspeed and altitude.
+
+FLIGHT INSTRUMENTS
+
+Airspeed - Should indicate zero with no head wind and match the EFI AI.
+
+Altimeter - Set the current altimeter setting and verify it is within 75 feet of airport elevation. This should be within 100 feet of the EFI ALT
+
+Turn Coordinator - Wings level, ball centered with no DC flag. The operation of the gyro can be checked on taxi.
+
+VSI - Should indicate zero. If note zero, not the zero point. 
+
+EFI PFD - Ensure the altimeter is set and within 75 feet of field elevations. Check the horizon is level, the trapezoid is centered, airspeed reading zero with no head wind, and the heading alights with the EFI HSI and mag compass.
+
+Set Synthetic Vision as desired. Check for any advisory messages.
+
+EFI HSI - Choose the appropriate CDI source for navigation. If desired, select the map mode and set the range for taxi. Check for any advisory messages.
+
+COMS / NAVS
+
+COM 1 should be used to communicate with ATC for any instructions (Clearance, Ground, Tower, Approach, etc.) COM 2 should be used for advisory communications only (ATIS, ASOS, FBO, etc.)
+
+Set the next frequency to be used in the Active portion of the radio and the next to be used in standby. 
+
+COM 1 Active - Ground / Standby - Tower 
+COM 2 Active - Guard 121.5 / Standby - Arrival ATIS
+
+NAV should be set in the order of use for departure to include active and standby.
+
+When making changes to COMs or NAVs, think ahead and enter the next appropriate frequency in the standby position when available.
+
+FLOWS
+
+NOT APPLICABLE 
+
+CHECKLISTS
+
+
+			TAXI
+
+Maximum Taxi Speed 20 KTS on Dry pavement and 10 KTS on contaminated surfaces. 
+
+Perform a brake check before beginning taxi. 
+
+BEFORE TAKEOFF
+
+TASKS
+
+The Before Takeoff Checklist is divided into two portions. Before Takeoff Checklist above the line and Before Takeoff Checklist below the line. The line segments the engine runup from pre-departure procedures. The Before Takeoff Checklist above the line references the runup which is associated with the Before Takeoff Flow. The above the line portion and run-up only need to be completed prior to the first takeoff of the flight. Subsequent departures or pattern work only require the below the line portion on the checklist. When complex departures are not being complied with the PF may choose to complete all tasks and flows and complete the before takeoff checklist in its entirety.
+
+Turnoff the taxi light when parked to indicate to surrounding aircraft that you have no intention of movement.
+
+For engine run-up, position the aircraft into the wind if possible. This will provide maximum engine cooling while parked.
+
+Monitor tower frequency or CTAF in the runup area or approaching the hold short lines. Tune the next frequency to be used in the standby position. 
+
+Verify the flight instruments have no red x’s, no flags and are configured for departure. This includes: airspeed bug, altitude bug, heading bug, CDI setting.
+
+Ensure NAV frequencies are tuned, active and standby, and the GPS is programmed accordingly.
+
+The transponder should be set to VFR, appropriate discrete code as assigned by ATC or issued in an IFR clearance. 
+
+Flaps should be confirmed or set for the appropriate takeoff configuration. 
+
+Doors must be closed during runup and takeoff. It is permissible to have the windows open for runup and takeoff.
+
+If departing into IMC conditions, turn the pitot heat on before takeoff.
+
+Bugs
+The flight instrument bugs should be set for departure.
+
+Airspeed bug - Set for the appropriate climb speed
+Altitude bug - Set for level off altitude
+Heading bug - Set for the departure runway
+
+
+FLOWS
+
+Brakes - Hold
+Flight Control Check - preform a box check to make sure no items in the cockpit are inhibiting the flight controls. Note iPad and kneeboard position.
+Fuel Selector - Both
+Trim - Set to the takeoff indication
+Mixture - Rich
+Throttle - 1700 RPM
+Mixture - Adjust for density altitude above 3,000 to achieve peak RPM.
+Magneto Check - Turn the ignition key to the R portion (2 clicks) and verify a drop in RPM of no more than 125. Return the key to BOTH. Turn the ignition key to the L portion (1 clicks) and verify a drop in RPM of no more than 125. The maxi difference should be 75 RPM. Verify the key is back in the BOTH position.
+	
+NOTE
+A rough running engine during a magneto check indicates led build up and deposits on the spark plugs. This is most often caused by insufficient leaning during taxi. In some instances the magnetos can fail. This is often indicated by the engine dying during the magneto check or excessive drops of 500 RPM or more. To resolve fouled spark plugs, lean the mixture for peak RMP and increase the throttle to full power for one minute. After this procedure attempt a magneto check again. If it fails again return to parking and call maintenance.
+
+Ammeter - Check alternator is charging. You can increase the load by turning on lights and pitot heat to verify the alternators ability to charge. 
+Oil Pressure - Green
+Oil Temperature - Green
+Annunciators - Check
+Carburetor Heat Check - Apply carburetor heat and note a drop in RPM. Leave the Carburetor heat applied for Idle check.
+Throttle - Full idle, verify the engine continues to run above 600 RPM. Close the carburetor heat.
+
+CHECKLISTS
+
+TAKEOFF
+
+TASKS
+
+Verify the correct runway with a runway sign or marking. 
+	
+	PF: “Runway _____ confirmed.”
+
+Once aligned with the runway verify the heading bug is set for the departure runway.
+
+	PF: “Heading checked.”
+	PM: “Checked.”
+
+
+FLOWS
+
+Prior to crossing the runway threshold:
+
+Lights - Set (All lights are on)
+Mixture - Takeoff
+Transponder - Altitude mode
+
+CHECKLISTS
+
+Not ApplicableCLIMB
+
+TASKS
+
+Flap Retraction
+
+Flap retraction should be done at a safe altitude, at or above Vy. A safe altitude is 500 - 1,000 ft AGL. Below 500 ft AGL the pilot should be prepared for engine failure. Leaving the flaps extended above 1,000 ft could hinder climb performance.
+
+Leaning
+
+The mixture should be leaned above 3,000 MSL. Leaning technique for the climb provides a rough estimate before the fuel can be leaned precisely in cruise. At 3,000 MSL lean the mixture one inch travel or three rotations. Continue leaning one rotation per 1,000 ft
+
+Lights
+
+Leave all light on when climbing in busy areas with high traffic volume, to aid in collision avoidance. Otherwise, the Taxi and Landing lights can be turned off. The Strobe, Nav, and Rotating Beacon are required.
+
+Pitot Heat should be used while in visible moisture.
+
+
+FLOWS
+
+AT 3,000 MSL
+
+Mixture - Lean three rotations
+Lights - Taxi and landing light off or leave on in congested airspace.
+Pitot Heat - On in visible moisture.
+
+CHECKLISTS
+
+CRUISE
+
+TASKS
+Cruise Power & Leaning
+
+Cruise leaning procedures should be in accordance with the POH using the performance data in Section 5.
+
+Without EGT or CHT indicators, we can suggesting using RMP as an indication. 
+
+Set the appropriate power setting from the POH. Slowly lean the mixture until there is a slight drop in cruise RPM. Increase the mixture three turns after the drop in RPM. This will result in a rich of peak lean.  
+
+
+It is recommended to monitor guard on 121.5 while in cruise flight.
+
+FLOWS
+
+Power - Verify cruise power is being produced within the planned parameters. 
+Lights - For high traffic volume areas leave all lights on. Otherwise, turn off the taxi and landing light. 
+
+CHECKLISTS
+
+
+MANEUVERS
+
+Pre-Maneuver Flow
+
+The Pre-Maneuver Flow should be done prior to each maneuver conducted. Use the CARE acronym to complete this task.
+
+Clearing Turns
+Look for traffic under the raised wing
+Two 90° turns in opposite directions
+One 180° turn 
+Attitude
+Ensure you are at the proper altitude and airspeed for the maneuver
+Note your altitude, airspeed and heading for the maneuver
+Radio Call
+Announce your intentions for maneuvering on the appropriate frequency (122.75)
+Include tail number, locations, altitude and intentions.
+Emergency Landing 
+Brief emergency landing scenarios in the event of an engine failure.
+Determine the best location for an emergency landing.DESCENT
+
+TASKS
+
+Weather
+
+Copy the appropriate weather for the destination airport.
+
+Flight Plan
+
+Once copying the weather you can anticipate the landing runway and procedures. Update the GPS flight plan with any changes to approach and arrival procedures.
+
+COMS / NAVS
+
+COM 1 should be used to communicate with ATC for any instructions (Clearance, Ground, Tower, Approach, etc.) COM 2 should be used for advisory communications only (ATIS, ASOS, FBO, etc.)
+
+Set the next frequency to be used in the Active portion of the radio and the next to be used in standby. 
+
+COM 1 Active - Tower / Standby - Ground 
+COM 2 Active - Arrival ATIS / Standby - FBO if needed
+
+NAV should be set in the order of use for arrival to include active and standby.
+
+When making changes to COMs or NAVs, think ahead and enter the next appropriate frequency in the standby position when available.
+
+Arrival Briefing
+
+ An arrival WANT briefing should be completed prior to beginning the initial decent.
+
+	Weather
+
+	Review the weather information identifying any threats. Set the current altimeter setting.
+
+	Arrival Procedures
+
+	From your current position, brief the arrival until the aircraft is parked. This includes: 			decent/arrival procedures, approach procedures, traffic pattern procedures, missed 			approach or go-around procedures, landing runway information, taxi routing, and 			parking.
+
+	NOTAMS
+
+	Review any NOTAMS effecting the departure.
+
+	Threats
+
+	Brief the greatest threats to the arrival. Examples include, IFR conditions, CFIT, 				traffic congestion, LLWS and unfamiliar or complex procedures. Discuss ways to 			mitigate the threats.
+
+VFR Example: “Information Whiskey is current, wind is 180 at 10 knots, which is a strong left crosswind for runway 28L. Skies are clear and the altimeter is 30.07. Currently, we are 3,500 over Torrey Pines, we will contact tower and request touch and goes, then follow tower’s instructions inbound. Most likely this will be south of Mount Soledad to join the left traffic pattern at 1,400ft. It will be a short field landing on 28L that has 4,589 feet of available runway. If we have to go around it will be full power flaps to 20. After landing we will continue in the pattern. The only NOTAM is 28R is closed. High volume of VFR is the largest threat. We will mitigate this by looking outside and using proper scanning techniques.”
+
+IFR Example: “Information Charlie…
+
+FLOWS
+
+Fuel Selector - Both
+Mixture - Enrich the mixture one turn per 1,000 feet of decent. Set the mixture full rich below 3,000 feet. If landing above 3,000 feet, enrich the mixture one turn per 1,000 feet until reaching traffic pattern altitude.
+Lights - All lights on for decent and landing.
+Seatbelts - Checked on for landing.
+
+CHECKLISTS
+
+
+
+LANDINGS
+
+Normal and Crosswind Landing
+
+Short Field Landing
+
+Soft Field Landing
+
+Power-Off 180 Landing
+
+Instrument Landing
+
+Missed Approach
+
+Go-Around
+
+Initiating a Go-Around
+
+A Go-Around should be initiated any time at the discretion of the pilot flying (PF). Conditions that should automatically initiate a go-around include:
+	
+Unstable approach
+Low-level Wind Shear (LLWS)
+Traffic on the runway within 3,000 feet of the aircraft
+ATC request
+
+Procedure
+
+The pilot flying initiates the go-around by making the standard call out, adding full power and being the flap retraction sequence. 
+
+PF “Go-around, flaps 20”
+Add full power
+Retract flaps to the 20° position
+Pitch for the horizon to level off and begin accelerating
+Once there is a trend reversal on the VSI, retract flaps to 10° position
+Accelerating through Vy, retract flaps to 0° / UP position
+Above 1,000’ AGL complete the climb checklist
+
+
+
+
+Aborted / Bounced LandingAFTER LANDING
+
+TASKS
+
+In an effort to not block runway exits, first get a taxi clearance from ground control. When there is a moment of reduced work load or the aircraft is stopped complete the tasks, flows and checklist.
+
+In CRM situations the PF should continue taxing while the PM completes the after landing items.
+
+Flaps
+
+During normal operations, when returning to parking set the flaps to 0. If there is a plan to taxi back to the runway for traffic patter work and the planned departure requires flaps 10, set them accordingly. 
+
+The flaps may already be up after completing a short field landing.
+
+FLOWS
+
+Trim - Set to Takeoff
+Mixture - Leaned one inch for ground operations.
+Carburetor Heat - Off
+Lights - Landing and strobe off. Taxi, Nav, and rotating beacon remain on.
+
+CHECKLISTS
+
+SHUTDOWN / SECURE
+
+
+TASKS
+
+Securing the Aircraft
+
+Tie or chain the aircraft and chock at least one wheel.
+
+
+Postflight
+
+The post flight inspection should be completed in a similar fashion to the preflight inspection. The primary focus is to detect any damage that happened during the flight, for example looking for indications of a bird strike. 
+
+In the event of another crew taking over the the aircraft, the next crew’s pre flight can substitute  for the post flight on the incoming crew. 
+
+Any discrepancies should be written up and reported to maintenance.
+
+Record the hobbs and tach in the flight log.
+
+FLOWS
+
+Avionics Switch - Off
+Magneto Grounding - Check by turning the ignition switch to the OFF position momentarily and then back to BOTH. If the engine dies, do not attempt to restart.
+Throttle - Advance to 1200 RPM and immediately move the mixture to idle cut off.
+Electrical Switches - All light and pitot heat off. The NAV light may be required for repositioning an aircraft at night.
+Master Switch - Off
+Ignition Switch - Off
+
+CHECKLISTS
+
