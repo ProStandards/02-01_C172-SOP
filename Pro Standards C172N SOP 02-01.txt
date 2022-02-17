@@ -36,6 +36,12 @@ C172 STANDARD OPERATING PROCEDURESLIST OF CHANGES
 Complete change history of this document can be found in the repository.
 https://github.com/ProStandards/c172-sop
 
+V2.4 16 Feb 2022
+Updated Checklist 
+Updated after landing flow
+Operational philosophy clarified with checklist duties
+Taxi - duties and management 
+
 V2.3 30 Jan 2022
 Introduction - Workload Management
 
@@ -88,9 +94,9 @@ Checklists should always be performed in the following order:
 	Abnormal Checklist
 	Normal Checklist
 
-When operating as a crew the PM (pilot monitoring) should conduct the checklists, to allow the PF (pilot flying) to maintain focus on the flight path management. The PF should verify the tasks are complete, perform the appropriate flow, then call for the checklist from the PM.
+When operating as a crew the PM (pilot monitoring) should conduct the checklists, to allow the PF (pilot flying) to maintain focus on flight path management. The PF should verify the tasks are complete, perform the appropriate flow, then call for the checklist from the PM.
 
-When in the training environment the student does single pilot items. The instructor will verify the PF items in the checklist.
+When in the training environment the student will complete the checklist. To develop crew communication skills the student will verbalize the single pilot items and the instructor will verbalize the PF items.
 
 AREAS OF VULNERABILITY 
 
@@ -191,13 +197,19 @@ FLOWS
 Battery Master Switch - On
 Fuel Selector - Both
 Trim - Takeoff
-Mixture - Below 3,000 MSL the mixture should be set to full rich for start. Above 3,000 MSL the mixture should be leaned one inch of travel.
-Interior Lights - During daytime operations the interior lights should be turned off and the brightness adjusted on the GPS and electronic instruments. During nighttime operations the dome light, GPS and electronic flight instruments should be adjusted to the lowest visible level. This will promote night vision. As your eyes adapt you will be able to dim the lights more.
-Exterior Lights - The Nav light should remain on for all operations to indicate the application of power to the aircraft. Additionally, the Nav light should remain on during flight to power the ADS-B out. The Beacon should be turned on prior to starting the engine. The taxi light is used to indicate movement on the surface. Prior to taxing the light should be turn on and once the aircraft is stopped (run-up or waiting clearance) the light should be turned off. Finally, the taxi light should be turned off to indicate giving way to another aircraft an taxiway intersections. The strobe light should only be used when on the runway. When crossing a runway all the external lights should be turned on.
+Mixture - Set
+Rich below 3,000 MSL, or 
+Above 3,000 MSL the mixture should be leaned one inch of travel.
+Interior Lights - Set 
+During daytime operations the interior lights should be turned off and the brightness adjusted on the GPS and electronic instruments. During nighttime operations the dome light, GPS and electronic flight instruments should be adjusted to the lowest visible level. This will promote night vision. As your eyes adapt you will be able to dim the lights more.
+Exterior Lights - Set
+The Nav light should remain on for all operations to indicate the application of power to the aircraft. Additionally, the Nav light should remain on during flight to power the ADS-B out. The Beacon should be turned on prior to starting the engine. The taxi light is used to indicate movement on the surface. Prior to taxing the light should be turn on and once the aircraft is stopped (run-up or waiting clearance) the light should be turned off. Finally, the taxi light should be turned off to indicate giving way to another aircraft an taxiway intersections. The strobe light should only be used when on the runway. When crossing a runway all the external lights should be turned on.
 Carburetor Heat - Off
-Circuit Breakers - Verify all are in
+Circuit Breakers - Checked
+Verify all are in
 Avionics Switch - Off
-Prime - Check the oil temperature gauge prior to priming the aircraft. If the gauge is indicating in the green no prime is required for start. If the oil temperature is below the green use three strokes of the primer. Insure the primer is locked when complete.
+Prime - As Required
+Check the oil temperature gauge prior to priming the aircraft. If the gauge is indicating in the green no prime is required for start. If the oil temperature is below the green use three strokes of the primer. Insure the primer is locked when complete.
 
 
 
@@ -302,9 +314,14 @@ CHECKLISTS
 
 			TAXI
 
+The PF will taxi the airplane with no other duties or distractions while the aircraft is moving. During single pilot or training operations, the PF should stop the aircraft before going heads down for any reason. It is permissible for the PM to perform tasks while the PF is taxing such as programing radios or navigation. 
+
+The PF should prioritize flight path management on the ground over checklists. The aircraft should be stopped or in a low area of vulnerability if the PF is to conduct checklists single pilot.
+
 Maximum Taxi Speed 20 KTS on Dry pavement and 10 KTS on contaminated surfaces. 
 
 Perform a brake check before beginning taxi. 
+
 
 BEFORE TAKEOFF
 
@@ -331,6 +348,7 @@ Doors must be closed during runup and takeoff. It is permissible to have the win
 If departing into IMC conditions, turn the pitot heat on before takeoff.
 
 Bugs
+
 The flight instrument bugs should be set for departure.
 
 Airspeed bug - Set for the appropriate climb speed
@@ -692,6 +710,8 @@ During normal operations, when returning to parking set the flaps to 0. If there
 The flaps may already be up after completing a short field landing.
 
 FLOWS
+
+Single pilot or PM performs the after landing flow.
 
 Trim - Set to Takeoff
 Mixture - Leaned one inch for ground operations.
