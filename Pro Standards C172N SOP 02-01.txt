@@ -31,10 +31,24 @@
 
 
 
-C172 STANDARD OPERATING PROCEDURESLIST OF CHANGES
+C172 STANDARD OPERATING PROCEDURESTABLE OF CONTENTS
+
+LIST OF CHANGES
 
 Complete change history of this document can be found in the repository.
 https://github.com/ProStandards/c172-sop
+
+V3.0  Mar 2022
+Updated table of contents
+Upset recovery procedures
+Aircraft limitations
+Fuel selector LEFT or RIGHT on shutdown checklist
+Updated verbiage for annunciators on after start and before takeoff
+
+V2.5  Feb 2022
+Maintenance Status added to First Flight of the Day
+Takeoff duties
+Threat and Error Management
 
 V2.4 16 Feb 2022
 Updated Checklist 
@@ -45,7 +59,7 @@ Taxi - duties and management
 V2.3 30 Jan 2022
 Introduction - Workload Management
 
-V2.2 22 Jan 2022
+V2.2 22 Jan 2022 
 Before Start - Added Master Switch
 Added Landings Section
 	Added Go-Around Procedures
@@ -63,18 +77,8 @@ Before Taxi - Departure changed to Takeoff
 Decent - Arrival changed to Approach
 Decent - Errors corrected in checklist
 
-V1.2 12 Nov 2021
-Update Introduction
-Before Takeoff - Checklist formatting 
-Takeoff - Changed to “runway ___ confirmed”.
-
-V1.1 07 Nov 2021
-Introduction - Change PF / PM checklist responsibilities
-Change PF / PM on checklist call out
-Shutdown / Secure - Change postflight responsibilities 
-Added this list of changes
-
 INTRODUCTION
+
 
 OPERATIONAL PHILOSOPHY
 
@@ -110,6 +114,113 @@ Areas of Vulnerability:
 	Crossing Runways
 	Steril Cockpit
 
+
+
+THREAT AND ERROR MANAGEMENT
+
+A threat is factor or condition that could result in an incident or accident.
+
+An error is a mistake or slip by the pilot that could result in a deviation, incident or accident. 
+
+A risk is a threat that has been identified, briefed and considered in the pilot’s plan
+Aeronautical Decision Making
+
+Aeronautical Decision Making (ADM) is the term used to describe the Threat Model. ADM has the following key comports:
+	
+	Identify threats
+	Gather data
+	Plan / Act
+	Communicate
+	Debrief 
+
+Identify Threats 
+
+The most important skill in threat identification is situational awareness (SA). Without situational awareness anticipating, detecting, briefing and mitigating threats is impossible. Situational awareness is the ability to identify cause and effect in the environment you are operating in. SA applies to the entirety of the environment and not just inside the cockpit. Developing SA takes experience, time and dedication to threat and error management. 
+
+As a place to start developing situation awareness, the FAA has given us risk identification models such as PAVE and 5Ps.
+
+	Pilot(s) - recency, proficiency, skill level, experience, IMSAFE
+	Aircraft - airworthiness, deferred maintenance items, suitability for the operation
+	EnVironment - weather, airspace, complex airports, aircraft congestion
+	External pressure - company, passengers, pilot motivations
+
+	Illness
+	Medication
+	Stress
+	Alcohol
+	Fatigue
+	Emotional Health
+
+Anticipated threats are those that have been briefed by the PF. Unanticipated threats have not been briefed.
+
+Gather Data
+
+Once the threat has been identified, the PIC needs to collect information to better understand the risk being presented to the completion of the flight. We gather data by using crew resource management and single-pilot recourse management. Effectively expanding your team as the PIC is critical for the ADM process.
+
+	Inside the plane
+	Pilot monitoring or Instructor
+	Passangers
+	Aircraft Database
+	iPad Database
+	Company Manuals
+
+	Outside the plane
+	Air Traffic Control
+	Company
+	Flight Service Stations
+
+Once information has been collected the PIC should conduct a risk analysis do formulate a plan of action. It is important to consider information bias when gathering data and conducting the risk analysis. Information bias finding data that supports the decision that you prefer to make instead of the decision that needs to be made.
+
+Use the risk assessment matrix to analyze the severity of accepting the threat that has been presented. Consider the probability of the occurrence and the severity of the consequences if it occurred.
+If the level of risk is acceptable to the PIC they can continue to the next step.
+
+
+Plan
+With all available information, the pilot can formulate a mitigation strategy to operate the aircraft in relation to the threat that is present. A decision must be made to continue the mission or not. If the mission is safe to continue, use the mitigation strategy to make a plan of action for operating the rest of the flight. 
+
+Communicate
+In a single-pilot environment, the pilot should communicate their plan and intentions with ATC, passengers and company as necessary. 
+
+When operating with two pilots it is critical to create a shared mental model of the plan with the other pilot. Both pilots should understand the mission, means to accomplish the mission and the mediation strategy for the encounter threats. This includes delegating PF and PM duties as necessary.
+
+Debrief
+Once the threat has been resolved and in a low area of vulnerability, the decision making process should be evaluated and suggest ways to improve the ADM skills in the future. 
+
+No Time Threats
+
+No Time Threats require immediate pilot action to preserve life and property. No time threats include but are not limited to:
+	
+	Fire
+	Smoke
+	Medical Emergency
+	Engine Failure below 1,000 feet AGL
+
+After encountering an unanticipated threat the PF must fly the airplane. The flight path must be stabilized before proceeding with the TaEM model. 
+
+	Fly the airplane
+	Memory Items
+	Establish PF/PM
+
+Act
+This is what you train for. Use your pilot skills to get the plane on the ground as safely and as quickly as possible. 
+
+Communicate
+If time permits make your intentions know and squawk the appropriate emergency code.
+
+Debrief
+Once the threat has been resolved and in a low area of vulnerability, the decision making process should be evaluated and suggest ways to improve the ADM skills in the future. 
+
+
+Errors
+An error occurs when a threat is not mitigated or a threat is introduced by the pilot. The model below show progressive development of threats in to aircraft accidents or incidents. 
+			
+
+The primary means for preventing threats is by briefing. However, if a threat occurs the PIC must be well-trained and proficient in their skills to prevent errors form developing. These skills include: general piloting, workload management, checklist usage, aircraft knowledge, workload management, CRM/SRM, and ADM.
+
+If an error occurs the PIC must recognize and correct it immediately. Failure to do so will result in an undesired aircraft state. 
+
+Failure to correct an undesired aircraft state may result in an accident or incident. The PIC must be able to recognize this situations early and correct them.
+
 WORKLOAD MANAGMENT
 
 The majority of aviation accidents are caused by degradation in situational awareness from being oversaturated. It is important for a pilot to be able to identify when they have become saturated and communicate with instructor or crew member.
@@ -121,10 +232,220 @@ Yellow level is when the pilot begins to be task saturated, often in the areas o
 Red is when the pilot is no longer able to complete the required tasks for safe flight path management. At this point the pilot needs to stop, slow down, think, and prioritize tasks. Continuing without task prioritization will most likely result in a pilot deviation or accident. 
 
 Magenta is when the pilot does not have a high workload but is missing environmental signals due to complacency. The pilot needs to recognize the distractions and prioritize tasks for safe flight path management.    
-  FFOD (FIRST FLIGHT OF THE DAY)
+LIMITATIONS
+
+KINDS OF OPERATIONS LIMITS [POH 2-9] [GI 275 part 23 AML STC 2.26]
+
+
+
+Flight into known icing is prohibited.
+
+GI 275 ADAHRS requires GPS and ADC to be operational for IFR Flight. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+TAXI LIMITATION
+
+Maximum Taxi Speed 20 Knots on Dry pavement and 10 KTS on contaminated surfaces.
+
+
+AIRSPEED LIMITATION [POH2-4]
+
+
+
+
+
+
+
+
+POWER PLANT LIMITATION [POH2-5]
+
+
+
+
+POWER PLANT INSTRUMENT MARKINGS [POH2-6]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WEIGHT LIMITS [POH2-6]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CENTER OF GRAVITY LIMITS [POH2-7]
+
+
+
+
+MANEUVER LIMITS [POH2-7] [GI 275 PART 23 AML STC 2.5]
+
+Normal Category
+
+This airplane is certificated in both the normal and utility category. The normal category is applicable to aircraft intended for non-aerobatic operations. These include any maneuvers incidental to normal flying, stalls (except whip stalls), lazy eights, chandelles, and turns in which  the angle of bank is not more than 60°. Aerobatic maneuvers, including spins, are not approved. 
+
+If aerobatic maneuvers are being performed, the GI 275 attitude solution may become unreliable and should not be used as an attitude reference during the maneuvers.
+
+Utility Category
+
+The airplane is not designed for purely aerobatic flight. However, in the acquisition of various certificates such a commercial pilot and light instructor, certain maneuvers are required by the FAA. All of these maneuvers are permitted in this airplane when operated in the utility category.
+
+In the utility category, the baggage compartment and rear seat must not be occupied. No aerobatic maneuvers are approved except chandelles, lazy eights, steep turns, spins, and stalls (except whip stalls)
+
+Intentional spins with flaps extended are prohibited.
+
+
+
+
+FLIGHT FACTOR LOAD LIMITS [POH2-8]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FUEL LIMITATION [POH 2-9]
+
+
+
+To ensure maximum fuel capacity when refueling, place the fuel selector valve in either the LEFT or RIGHT position to prevent cross-feeding.
+
+Takeoff and land with the fuel selector valve handle in the BOTH position.
+
+
+MINIMUM SOFTWARE LIMITATION [GI 275 part 23 AML STC 2.1]
+
+
+
+
+NAVIGATION ANGLE [GI 275 part 23 AML STC 2.4]
+
+The Magnetic/True Navigation Angle (as selected in the MENU → SYSTEM
+→ UNITS Page) must match the navigation angle selected on all interfaced
+GPS/SBAS navigators. If this is not done the navigation deviations will not be
+accurate.
+
+
+ADAHRS NORMAL OPERATING MODE [GI 275 PART 23 AML STC 2.5]
+
+The ADAHRS integrity monitoring uses GPS data and air data. Since the
+internal ADC provides full time air data, the only required external input is from
+an approved and installed GPS.
+
+
+PRIMARY FLIGHT INSTRUMENTS [GI 275 PART 23 AML STC 2.8]
+
+Use of QFE altimeter settings is prohibited.
+
+
+
+
+
+SYNTHETIC VISION [GI 275 PART 23 AML STC 2.10]
+
+The synthetic vision presentation must not be used as the sole reference for aircraft control (without reference to the primary flight instruments).
+
+The synthetic vision presentation must not be used as the sole reference for navigation or obstacle/terrain/traffic avoidance.
+
+
+MOVING MAP [GI 275 PART 23 AML STC 2.11] [GI 275 PART 23 AML STC 2.18]
+
+The GI 275 Map page (ownship position relative to map features) must not be used as the primary or sole means of navigation or course guidance.
+
+The GI 275 Map page shall not be used as the sole basis for ground maneuvering. The zoomed-in Map page does not comply with the FAA requirements and is not certified as an airport moving map display (AMMD). 
+
+Map page use is limited to airport surface orientation to improve flight crew situational awareness during ground operations.
+
+
+TERREIN [GI 275 PART 23 AML STC 2.13] [GI 275 PART 23 AML STC 2.14]
+
+Maneuvers and navigation must not be based solely on the display of terrain, obstacles, or wires on the moving map terrain displays.
+
+Terrain/TAWS alerts must be inhibited when landing at an airport that is not in the airport database unless the airport can be designated as a user airport (GTN Navigator only).
+
+
+TRAFFIC [GI 275 PART 23 AML STC 2.16]
+
+The display of traffic is intended as an aid to visual acquisition and must not be used as the sole basis for maneuvering the aircraft to avoid traffic.
+
+
+SERVICE REQUIRED [GI 275 PART 23 AML STC 2.23]
+
+It is prohibited to initiate flight when a “Service Required” advisory is present on the ADI or EIS display.
+
+
+DATABASE UPDATE [GI 275 PART 23 AML STC 2.23]
+
+Database updates via USB or wireless transfers must be done while the aircraft is on the ground and stationary. In-flight database transfers or updates are inhibited in flight.
+FIRST FLIGHT OF THE DAY 
 
 TASKS
+MAINTENANCE STATUS 
 
+Determine the if it is safe to apply power to the aircraft.
+
+If maintenance is in control of the aircraft, or there is an inoperative item, applying power could damage the aircraft or cause injury to persons. 
+
+To determine if it is safe to apply power check the following:
+
+	1. DO NOT OPERATE tag on the throttle
+	2. Aircraft Status by scanning the QR code
+	3. Maintenance Irregularities 
+
+If any of the three items are found it is not safe to operate the aircraft.
+	
 PASSENGER BRIEFING
 
 The PIC is responsible for briefing the passengers aboard the aircraft. The following briefing items are required:
@@ -140,6 +461,7 @@ The PIC is responsible for briefing the passengers aboard the aircraft. The foll
 Example: “This is a non smoking flight. Safety belts are required for taxi, takeoff and landing. Use them by inserting the metal fitting into the buckle. Lift the latch to release. There are three exits on the airplane. Two front doors, lift the handle to open the door, and the aft baggage compartment door. (If required) There are life jackets in the baggage compartment. Place them over your head and tighten the buckle. There is a fire extinguisher in between the front seats. Pull the pin and aim at the fire in a sweeping movement. During taxi, takeoff, climb and landing we will keep talking to essential items only to prevent distraction.”
 
 
+
 CREW BRIEFING
 
 The First Flight of the Day crew briefing is meant to establish positive communication for crew members. The following items should be briefed:
@@ -149,15 +471,44 @@ The First Flight of the Day crew briefing is meant to establish positive communi
 	Emergency operation duties and responsibilities
 
 Example (Student Pilot): “I will be acting as PIC of the flight, however final authority will be with the instructor. We will use the three-step method to transfer flight controls. Initiated by saying ‘my flight controls’ verified by ‘your flight controls’ and confirmed by saying ‘your flight controls.’ During an emergency the pilot flying will continue flying while the pilot monitoring does the flow items and emergency checklist. Once the checklist is complete we can transfer controls if necessary.”
-	
-
 AIRWORTHINESS ACCEPTANCE
 
 FAR 91.7 - The PIC is responsible for determining whether the aircraft is in a condition safe for flight. The PIC should begin by checking the aircraft status to verify the inspections are current, and the hobbs and tach time match.
 
-Use the AVIATED acronym to check for the following inspections: Annual, VOR Check, 100 Hour, Altimeter and Pitot Static System, Transponder, ELT and Airworthiness Directives.
+Use the AVIATED acronym to check for the following inspections: 
+		Annual
+		VOR Check (if required)
+		100 Hour
+		Altimeter and Pitot Static System
+		Transponder
+		ELT
+		Airworthiness Directives.
 
-Additionally, The PIC should ensure the required documents are onboard the aircraft using the ARROWPC acronym. The documents include: Airworthiness Certificate, Registration (Federal), Radio Operators Permit (International Operations), Operating Limitations, Weight and Balance Data, Placards, and Compass Card.
+Additionally, The PIC should ensure the required documents are onboard the aircraft using the ARROWPC acronym. 
+	The documents include: 
+		Airworthiness Certificate
+		Registration (Federal)
+		Radio Operators Permit (International Operations)
+		Operating Limitations
+		Weight and Balance Data
+		Placards
+		Compass Card
+
+The pilots documents are also required for airworthiness. 
+	These documents include: 
+		Pilot Certificate
+		Current Medical
+		Government Issued Photo ID
+		Corrective Lenses (if required)
+		Flashlight
+		iPad with current data and at least 80% charge
+		Backup Battery suitable to charge the iPad 
+		Current Standard Operating Procedures
+		Current Checklist
+
+When using an iPad as primary means of aeronautical data you are required to have backup data in the event of iPad failure. Current GPS database, which includes a current SafeTaxi data base is sufficient for VFR. 
+
+IFR operations require a second chart data base. This can be a second iPad or iPhone with a current database or paper copies for the departure destination and alternates. 
 
  The PIC should, by means of external inspection verify the required equipment of 91.205 are operational. If there is any inoperative equipment, the PIC should verify the deferral of the equipment is completed in accordance with 91.213(d) and does not interfere with the safety of flight. 
 
@@ -181,6 +532,8 @@ FLOWS
 NOT APPLICABLE 
 
 CHECKLISTS
+
+
 
 BEFORE START
 
@@ -215,7 +568,10 @@ Check the oil temperature gauge prior to priming the aircraft. If the gauge is i
 
 CHECKLISTS
 
-Engine Starting
+
+
+
+ENGINE START
 
 TASKS
 
@@ -230,13 +586,15 @@ Ignition Switch - turn to start, release when engine begins to fire.
 Throttle - Adjust RPM to 1000
 Engine instruments - Oil pressure should indicate at least 25 PSI and be rising. 
 Ammeter - Verify charging
-Annunciators - Check the low voltage light, electronic flight instruments, and GPS
+Annunciators - Review displays for any abnormal warning, caution, or advisory indications. Ensure the standby batter is sufficiently charger on the GI 275 ADI and HSI per the Limitations Section
 Mixture - Lean one inch for taxi
 Flaps - Set flaps to the up position or 10 for soft field takeoff
 Avionics Switch - On
 Establish crew and passenger communications.
 
-Checklist
+CHECKLISTS
+
+
 
 BEFORE TAXI
 
@@ -253,7 +611,7 @@ The Departure Briefing should have the following information:
 
 	Departure Procedures
 
-	Starting at the aircrafts present location, brief taxi route, hot spots, runway lengths, 			emergency procedures on departure, and departure procedures.
+	Starting at the aircrafts present location, brief taxi route, hot spots, takeoff distance, 			runway lengths, emergency procedures on departure, and departure procedures.
 
 	NOTAMS
 
@@ -266,6 +624,8 @@ The Departure Briefing should have the following information:
 	Distractions to the pilot should also be considered. Distractions focus primarily on the 			pilot and human factors such a passengers and doing a sunset flight or tour.
 
 Example: “Information BRAVO is current, Skies are clear, altimeter is 29.92 and there is a five knot crosswind from the left. We are at transient parking, we will taxi via HOTEL and ALPHA to runway 28R using cation for hotspot three. 28R is 4,598 feet long with a displaced threshold. We require 1,200 feet for takeoff. If there are any critical abnormalities, caution or warning messages on takeoff roll we will abort, stop the aircraft and assess the situation. Clearing the runway if possible. After takeoff, if there is an engine failure or fire will will do the appropriate memory item, followed by the checklist and plan to land off field. We are departing straight out to 3,500 feet. Our greatest on departure is traffic congestion in the pattern and incoming traffic from the coast. We will mitigate the threats by keeping our eyes outside and scanning for traffic.”
+
+
 FLIGHT PLAN
 
 The PF should build the flight plan in the GPS. If a clearance is associated with the departure procedures ensure that the procedure in built in the navigation system. After entering the appropriate waypoints the PF should verify the route on the map page. This will ensure there are no erroneous fixes entered. The PM or Instructor will verify the fixes. 
@@ -278,19 +638,26 @@ Once the flight plan has been built and verified the PF should bug the flight in
 
 FLIGHT INSTRUMENTS
 
-Airspeed - Should indicate zero with no head wind and match the EFI AI.
+Magnetic Compass - Ensure that the compass is visible and the case is full of fluid.
 
-Altimeter - Set the current altimeter setting and verify it is within 75 feet of airport elevation. This should be within 100 feet of the EFI ALT
+Airspeed - Should indicate zero with no head wind and match the ADI.
+
+GI 275 ADI - Ensure the altimeter is set and within 75 feet of field elevations. Verify that attitude, heading, altitude, and airspeed are displayed normally on the ADI
+
+Set Synthetic Vision as desired. 
+
+Verify that no yellow or red battery icon is displayed on the ADI. If a yellow icon is present, verify the battery’s remaining capacity via SOP procedures.
+
+Altimeter - Set the current altimeter setting and verify it is within 75 feet of airport elevation. This should be within 100 feet of the GI 275 ADI.
 
 Turn Coordinator - Wings level, ball centered with no DC flag. The operation of the gyro can be checked on taxi.
 
+GI 275 HSI - Choose the appropriate CDI source for navigation. If desired, select the map mode and set the range for taxi. Check for any advisory messages.
+
+For IFR aircraft, verify that no yellow or red battery icon is displayed on the primary or standby ADI. If a yellow icon is present, verify the battery’s remaining capacity is more than 30 minutes.
+
 VSI - Should indicate zero. If note zero, not the zero point. 
 
-EFI PFD - Ensure the altimeter is set and within 75 feet of field elevations. Check the horizon is level, the trapezoid is centered, airspeed reading zero with no head wind, and the heading alights with the EFI HSI and mag compass.
-
-Set Synthetic Vision as desired. Check for any advisory messages.
-
-EFI HSI - Choose the appropriate CDI source for navigation. If desired, select the map mode and set the range for taxi. Check for any advisory messages.
 
 COMS / NAVS
 
@@ -312,16 +679,34 @@ NOT APPLICABLE
 CHECKLISTS
 
 
-			TAXI
+
+TAXI
 
 The PF will taxi the airplane with no other duties or distractions while the aircraft is moving. During single pilot or training operations, the PF should stop the aircraft before going heads down for any reason. It is permissible for the PM to perform tasks while the PF is taxing such as programing radios or navigation. 
 
 The PF should prioritize flight path management on the ground over checklists. The aircraft should be stopped or in a low area of vulnerability if the PF is to conduct checklists single pilot.
 
-Maximum Taxi Speed 20 KTS on Dry pavement and 10 KTS on contaminated surfaces. 
-
 Perform a brake check before beginning taxi. 
 
+Instrument Flight Deck Check
+
+OVERVIEW
+Check the flight instruments and systems to verify the aircraft is suitable for IFR flight.
+
+OBJECTIVE
+The pilot demonstrates satisfactory knowledge, risk management, and skills associated with conducting a preflight check on the airplane’s instruments necessary for an IFR flight.
+
+PROCEDURE
+Verify the flight instruments, COMs and NAVs per Before Taxi Tasks.
+Verify that the Magnetic Compass, HSI and turn coordinator move freely during taxi turns.
+Verify the Magnetic Compass compared to a known heading. This is typically done aligning on the runway during the heading check.
+
+COMMON ERRORS
+Operating with inoperative equipment.
+Operating with outdated navigation publications or databases.
+
+COMPLETION STANDARDS
+Perform preflight inspection by following the SOP procedures and determine that the airplane is in a condition for safe instrument flight.
 
 BEFORE TAKEOFF
 
@@ -336,6 +721,8 @@ For engine run-up, position the aircraft into the wind if possible. This will pr
 Monitor tower frequency or CTAF in the runup area or approaching the hold short lines. Tune the next frequency to be used in the standby position. 
 
 Verify the flight instruments have no red x’s, no flags and are configured for departure. This includes: airspeed bug, altitude bug, heading bug, CDI setting.
+
+Verify that the MAG/TRUE navigation angle selection on the GI 275 and any interfaced navigators match.
 
 Ensure NAV frequencies are tuned, active and standby, and the GPS is programmed accordingly.
 
@@ -356,6 +743,8 @@ Altitude bug - Set for level off altitude
 Heading bug - Set for the departure runway
 
 
+
+
 FLOWS
 
 Brakes - Hold
@@ -373,19 +762,21 @@ A rough running engine during a magneto check indicates led build up and deposit
 Ammeter - Check alternator is charging. You can increase the load by turning on lights and pitot heat to verify the alternators ability to charge. 
 Oil Pressure - Green
 Oil Temperature - Green
-Annunciators - Check
+Annunciators - Review displays for any abnormal warning, caution, or advisory indications.
 Carburetor Heat Check - Apply carburetor heat and note a drop in RPM. Leave the Carburetor heat applied for Idle check.
 Throttle - Full idle, verify the engine continues to run above 600 RPM. Close the carburetor heat.
 
 CHECKLISTS
 
+
+
 TAKEOFF
 
 TASKS
 
-Verify the correct runway with a runway sign or marking. 
+Verify the correct runway with a runway sign or marking. Both pilots will confirm the correct runway. One pilot will confirm the runway by making a radio call to include the planed runway. The pilot that does not make the radio call confirms the runway by stating:
 	
-	PF: “Runway _____ confirmed.”
+	“Runway _____ confirmed.”
 
 Once aligned with the runway verify the heading bug is set for the departure runway.
 
@@ -403,7 +794,11 @@ Transponder - Altitude mode
 
 CHECKLISTS
 
-Not ApplicableCLIMB
+Not Applicable
+
+
+
+CLIMB
 
 TASKS
 
@@ -432,6 +827,7 @@ Pitot Heat - On in visible moisture.
 
 CHECKLISTS
 
+
 CRUISE
 
 TASKS
@@ -455,8 +851,92 @@ Lights - For high traffic volume areas leave all lights on. Otherwise, turn off 
 CHECKLISTS
 
 
-MANEUVERS
 
+UPSET RECOVERY
+
+OVERVIEW
+
+Loss of Control In-flight is the leading cause of fatalities in modern aviation. The objective is to train pilots to be proficient at upset identification and simply recovery.
+
+An upset is:
+Any flight condition not usually experienced in normal or training operations
+Pitch greater than 25° nose up
+Pitch greater than 10° nose down
+Bank angle greater than 60°
+Inappropriate airspeed
+Approaching stall
+
+PROCEDURE
+
+PF “UPSET” 
+Push
+Roll
+Thrust
+Stablize
+
+Step One - Recognize
+Situational Awareness before recovery
+Cross check flight instruments to confirm
+Call out “UPSET”
+Assess the energy state of the aircraft
+Initiating the recovery is the primary objection - not troubleshooting why the upset occurred 
+
+Step Two - Push
+Unload the aircraft
+Apply smooth and deliberate controls
+Reduce AOA
+Maintain until the stall has been broken
+Don’t push too much - about 0.5g “light in the seat”
+
+Step Three - Roll
+After stall has been recovered from
+Roll to wings level without adding elevator
+Remain unloaded until the roll is complete
+If the elevator is ineffective roll the plan to induce nose down pitch
+
+Step Four - Thrust
+Use thrust as required - Can be dynamic during the recovery
+Full throttle may be necessary for recovery
+Adding thrust will cause a pitch up moment
+
+Step Five - Stabilize 
+Return to a normal flight path and configuration
+Use TEAM model 
+
+COMMON ERRORS
+Failure to seek assistance or declare an emergency in a deteriorating situation.
+Distractions, loss of situational awareness, or improper task management.
+Failure to interpret flight instruments.
+Failure to unload the wings in recovering from high G situations.
+Exceeding the operating envelope during the recovery.
+
+COMPLETION STANDARDS
+Use proper instrument cross-check and interpretation to identify an unusual attitude (including both nose-high and nose-low), and apply the appropriate pitch, bank, and power corrections, in the correct sequence, to return to a stabilized level flight attitude.
+
+LOSS OF RELIABLE AIRSPEED
+
+OVERVIEW
+
+Loss of reliable airspeed can be very difficult to detect. Delay in detection will result in pilot induced loss of control in-flight. The airspeed indicator is malfunctioning due to instrument icing, blocking or system malfunction.
+
+The GI 275 ADI will indicate yellow IAS miscompare or magenta ground indication if the ADC fails.
+
+It is imperative that the pilot be familiar with control-performance methods.
+
+
+
+PROCEDURE
+Remove the erroneous airspeed from the instrument scan
+Reference standby or groundspeed indications
+Declare an emergency with ATC if in IMC
+Maintain VMC if possible
+
+COMMON ERRORS
+Failure to maintain airplane control.
+Distractions, loss of situational awareness, or improper task management.
+
+COMPLETION STANDARDS
+Demonstrate CRM/SRM and aircraft control.MANEUVERS
 Pre-Maneuver Flow
 OVERVIEW
 The Pre-Maneuver Flow should be done prior to each maneuver conducted. Use the CARE acronym to complete this task.
@@ -509,11 +989,11 @@ Private minimum of one 360° turn as directed by the instructor
 Commercial complete one 360° turn followed immediately by the opposite direction turn.
 
 COMMON ERRORS
-RM.V.A.R1 	Failure to divide attention between airplane control and orientation.
-RM.V.A.R2 	Collision hazards, to include aircraft and terrain.
-RM.V.A.R3	Low altitude maneuvering including stall, spin, or CFIT.
-RM.V.A.R4 	Distractions, improper task management, loss of situational awareness, or 				disorientation.
-RM.V.A.R5 	Failure to maintain coordinated flight.
+Failure to divide attention between airplane control and orientation.
+Collision hazards, to include aircraft and terrain.
+Low altitude maneuvering including stall, spin, or CFIT.
+Distractions, improper task management, loss of situational awareness, or 				disorientation.
+Failure to maintain coordinated flight.
 
 COMPLETION STANDARDS
 PA.V.A.S5 Maintain the entry altitude ±100 feet, airspeed ±10 knots, bank ±5°, and roll out on the entry heading ±10°.
@@ -527,20 +1007,36 @@ After clearing turns are completed the airplane is maneuvered at an airspeed app
 OBJECTIVE
 To teach the student to recognize changes in airplane flight characteristics and control effectiveness at critically slow airspeeds in various configurations while maintaining positive airplane control at all times.
 
+Altitude for this maneuver must be above 1,500’ AGL.
+
 PROCEDURE
 Complete the Pre-Maneuver Flow
 Apply carburetor heat and set 1700 RPM
 Extend flaps on schedule to 30°
 Maintain heading and altitude while slowing to an airspeed approximately 10 kts above stall speed for the specified configuration.
 Add power to 2200 RPM to maintain airspeed 10 KTS above stall speed. The stall warning horn should not sound during this maneuver.
-Perform climbing, depending and turning flight as directed by the instructor.
- 
+Perform climbing, descending and turning flight as directed by the instructor.
+Recover by applying max power and adjusting pitch to maintain altitude while accelerating
+Retract the flaps on schedule
+Resume normal cruise
+
 COMMON ERRORS
-PA.V.A.R1
+Inadvertent slow flight and flight with a stall warning, which could lead to loss of control.
+Failure to maintain coordinated flight.
+Distractions, loss of situational awareness, or improper task management.
+Failure to establish specified configuration.
+Improper entry technique.
+Failure to establish and maintain the specified airspeed.
+Excessive variations of altitude and heading when a constant altitude and heading are specified.
+Uncoordinated use of flight controls.
+Improper correction for torque effect.
+Improper trim technique.
+Unintentional stalls.
+Inappropriate removal of hand from throttles.
 
 COMPLETION STANDARDS
-PA.V.A.S5 Maintain
-Power-Off Stalls
+PA.VII.A.S5 Maintain the specified altitude, ±100 feet; specified heading, ±10°; airspeed, +10/-0 knots; and specified angle of bank, ±10°.
+CA.VII.A.S5 Maintain the specified altitude, ±50 feet; specified heading, ±10°; airspeed, +5/-0 knots; and specified angle of bank, ±5°Power-Off Stalls
 
 OVERVIEW
 The
@@ -573,7 +1069,9 @@ COMMON ERRORS
 PA.V.A.R1
 
 COMPLETION STANDARDS
-PA.V.A.S5 MaintainDESCENT
+PA.V.A.S5 Maintain
+
+DESCENT
 
 TASKS
 
@@ -679,23 +1177,66 @@ Accelerating through Vy, retract flaps to 0° / UP position
 Above 1,000’ AGL complete the climb checklist
 
 COMMON ERRORS
-RM.IV.N.R1	Delayed recognition of the need for a go-around/rejected landing. Delayed 				performance of a go-around at low altitude.
-RM.IV.N.R1	Improper application of power.
-RM.IV.N.R1 	Improper airplane configuration.
-RM.IV.N.R1 	Collision hazards, to include aircraft, terrain, obstacles, wires, vehicles, 					vessels, persons, and wildlife.
-RM.IV.N.R1	Low altitude maneuvering including stall, spin, or CFIT.
-RM.IV.N.R1 	Distractions, loss of situational awareness, or improper task management.
+Delayed recognition of the need for a go-around/rejected landing. Delayed performance of a go-around at low altitude.
+Improper application of power.
+Improper airplane configuration.
+Collision hazards, to include aircraft, terrain, obstacles, wires, vehicles, vessels, persons, and wildlife.
+Low altitude maneuvering including stall, spin, or CFIT.
+Distractions, loss of situational awareness, or improper task management.
 
 COMPLETION STANDARDS
 PA.IV.N.S4	Apply takeoff power immediately and transition to climb pitch attitude for 				VX or VY as appropriate +10/-5 knots.
 PA.IV.N.S7	Maintain VY +10/-5 knots to a safe maneuvering altitude.
 CA.IV.N.S4	Apply takeoff power immediately and transition to climb pitch attitude for 				VX or VY as appropriate ±5 knots.
 CA.IV.N.S7	Maintain VY ±5 knots to a safe maneuvering altitude.
+Aborted / Bounced Landing
+
+OVERVIEW
+An aborted or bounced landing can occur for a variety of reasons:
+Wind shear
+Low-level turbulence
+Excessive rate of descent
+Excessive airspeed
+Power not at idle during touchdown
+Incorrect flare technique
+
+OBJECTIVE
+To develop the student’s ability to correctly recover from an aborted or bounced landing. 
+
+PROCEDURE
+
+Light Bounce Recovery Procedures
+
+Maintain or reestablish landing attitude
+Use power as required to soften the subsequent touchdown
+Beware of increased landing distance
+
+Increasing pitch attitude can lead to a tail strike
+
+Severe Bounce Recovery Procedures
+
+Do not attempt to land
+Advance throttle to max power
+Maintain pitch attitude until you begin to accelerate in airspeed and have a positive VSI trend
+Trim
+Follow normal go-around procedures
+
+COMMON ERRORS
+Tail strike from increasing pitch after a bounced landing
+Delayed recognition of the need for a go-around/aborted landing.
+Improper application of power.
+Improper airplane configuration.
+Collision hazards, to include aircraft, terrain, obstacles, wires, vehicles, vessels, persons, and wildlife.
+Low altitude maneuvering including stall, spin, or CFIT.
+Distractions, loss of situational awareness, or improper task management.
 
 
-
-
-Aborted / Bounced LandingAFTER LANDING
+COMPLETION STANDARDS
+PA.IV.N.S4	Apply takeoff power immediately and transition to climb pitch attitude for 				VX or VY as appropriate +10/-5 knots.
+PA.IV.N.S7	Maintain VY +10/-5 knots to a safe maneuvering altitude.
+CA.IV.N.S4	Apply takeoff power immediately and transition to climb pitch attitude for 				VX or VY as appropriate ±5 knots.
+CA.IV.N.S7	Maintain VY ±5 knots to a safe maneuvering altitude.
+AFTER LANDING
 
 TASKS
 
@@ -720,8 +1261,9 @@ Lights - Landing and strobe off. Taxi, Nav, and rotating beacon remain on.
 
 CHECKLISTS
 
-SHUTDOWN / SECURE
 
+
+SHUTDOWN / SECURE
 
 TASKS
 
@@ -748,6 +1290,9 @@ Throttle - Advance to 1200 RPM and immediately move the mixture to idle cut off.
 Electrical Switches - All light and pitot heat off. The NAV light may be required for repositioning an aircraft at night.
 Master Switch - Off
 Ignition Switch - Off
+Fuel Selector - LEFT or RIGHT
 
 CHECKLISTS
+
+APPENDIX I - MANEUVERS INDEX
 
