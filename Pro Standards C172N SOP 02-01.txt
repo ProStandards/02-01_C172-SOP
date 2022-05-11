@@ -38,6 +38,12 @@ LIST OF CHANGES
 Complete change history of this document can be found in the repository.
 https://github.com/ProStandards/c172-sop
 
+V3.2 Mar 2022
+Approach section added.
+
+V3.1 Mar 2022
+Transponder operations added to before taxi checklist
+
 V3.0  Mar 2022
 Updated table of contents
 Upset recovery procedures
@@ -595,7 +601,7 @@ Establish crew and passenger communications.
 CHECKLISTS
 
 
-
+ABNORMAL START
 BEFORE TAXI
 
 TASKS
@@ -672,9 +678,28 @@ NAV should be set in the order of use for departure to include active and standb
 
 When making changes to COMs or NAVs, think ahead and enter the next appropriate frequency in the standby position when available.
 
+Transponder
+
+The transponder should be set to VFR, appropriate discrete code as assigned by ATC or issued in an IFR clearance.
+
+Various airports may require different transponder operation modes. ATIS will indicate if special operational modes are required.
+
+The transponder should be set to ALT for taxi and flight operations, unless otherwise requested by ATC.
+
+
 FLOWS
 
 NOT APPLICABLE 
+
+
+
+
+
+
+
+
+
+
 
 CHECKLISTS
 
@@ -725,8 +750,6 @@ Verify the flight instruments have no red x’s, no flags and are configured for
 Verify that the MAG/TRUE navigation angle selection on the GI 275 and any interfaced navigators match.
 
 Ensure NAV frequencies are tuned, active and standby, and the GPS is programmed accordingly.
-
-The transponder should be set to VFR, appropriate discrete code as assigned by ATC or issued in an IFR clearance. 
 
 Flaps should be confirmed or set for the appropriate takeoff configuration. 
 
@@ -789,8 +812,8 @@ FLOWS
 Prior to crossing the runway threshold:
 
 Lights - Set (All lights are on)
-Mixture - Takeoff
-Transponder - Altitude mode
+Mixture - Set for takeoff
+Transponder - Verify altitude mode
 
 CHECKLISTS
 
@@ -938,6 +961,7 @@ Distractions, loss of situational awareness, or improper task management.
 COMPLETION STANDARDS
 Demonstrate CRM/SRM and aircraft control.MANEUVERS
 Pre-Maneuver Flow
+
 OVERVIEW
 The Pre-Maneuver Flow should be done prior to each maneuver conducted. Use the CARE acronym to complete this task.
 
@@ -965,7 +989,8 @@ Failure to divide attention and scan for traffic.
 Failure to complete two 90° turns or a 180° turn
 
 COMPLETION STANDARDS
-The student successfully manages the flight path while performing the tasks of this maneuver.Steep Turns
+The student successfully manages the flight path while performing the tasks of this maneuver.PERFORMANCE MANEUVERS
+Steep Turns
 
 OVERVIEW
 The airplane is turned using a constant angle of bank (45° for Private, 50° for Commercial) while maintaining a constant altitude and airspeed. Rollout should be to a predetermined heading.
@@ -998,7 +1023,10 @@ Failure to maintain coordinated flight.
 COMPLETION STANDARDS
 PA.V.A.S5 Maintain the entry altitude ±100 feet, airspeed ±10 knots, bank ±5°, and roll out on the entry heading ±10°.
 CA.V.A.S5 Maintain the entry altitude ±100 feet, airspeed ±10 knots, bank ±5°, and roll out on the entry heading ±10°.
-LOW SPEED MANEUVERS
+
+Chandelles
+Lazy Eights
+Steep SpiralsLOW SPEED MANEUVERS
 Slow Flight
 
 OVERVIEW
@@ -1071,6 +1099,17 @@ PA.V.A.R1
 COMPLETION STANDARDS
 PA.V.A.S5 Maintain
 
+Accelerated Stalls
+Secondary Stalls
+Trim Stalls
+Cross-Controlled Stalls
+SpinsGROUND REFERENCE MANEUVERS
+
+Turns Around a Point
+S Turns
+Rectangular Course
+Eights on Pylons
+
 DESCENT
 
 TASKS
@@ -1131,21 +1170,362 @@ CHECKLISTS
 
 
 
-LANDINGS
+Approaches
 
-Normal and Crosswind Landing
+Approaches with Vertical Guidance are recommend, when available.
 
-Short Field Landing
+Observe strict adherence to standard callout procedures. Any doubt as to the approach’s success must lead to a go-around.
 
-Soft Field Landing
+The controls should be guarded throughout all phases of approach, landing and rollout. 
 
-Power-Off 180 Landing
 
-Instrument Landing
+Approach Deviation Callouts
 
+The Pilot Monitoring is responsible for monitoring all phases of the approach and must call out any observed discrepancies or divisions.
+
+The pilot monitoring announces the deviation, the pilot flying immediately corrects the deviation and announces “CORRECTING.” The pilot monitoring verifies the appropriate corrective actions and announces any further deviations.
+
+
+
+
+Approach Without FMS
+
+When it is not possible to conduct the approach, or the procedures is not loaded in the navigation database, use the following guidelines:
+
+	Reset all NAV radios and courses prior to descent
+	Start the approach with Green LOC or VOR selected as the primary navigation source
+	Adjust the CDI course selector as necessary
+	Manually tune frequencies and courses as necessary during the approach
+	
+Approach Minima
+
+Set the approach minima as follows:
+
+
+
+
+Stabilized Approach Criteria
+
+A stabilized approach is characterized by a constant angle, constant rate of descent approach profile ending near the touchdown point. An approach that meets the parameters described below provides the best opportunity for a stable approach. Pilots must meet the stabilized approach criteria with the conditions listed by 500 feet hight above touch down or a go-around is mandatory.
+
+By the Final Approach Fix
+
+Airspeed no greater than 110 KIAS
+Flaps 10°
+On lateral and vertical profile
+Sink rate no greater than 1,000 FPM, unless otherwise briefed
+Descent checklist is complete
+
+By 500 ft Above Touchdown Zone
+
+Airspeed established within the airspeed bug
+Power is not idle
+
+
+Temperature Compensation
+
+Barometric altimeters are calibrated to indicate true altitude only under ISA conditions of temperature and sea level pressure. RNAV approaches (except LPV) use Baro-VNAV; therefore
+the vertical path is affected by temperature. When the temperature is colder than ISA, the
+generated vertical path is shallower than published, placing the aircraft closer to the terrain.
+When the temperature is warmer, the generated glidepath is steeper than published. Temperature Compensation (TEMP COMP) corrects the aircraft vertical path back to the correct
+true altitude and approach angle for non-standard temperatures.
+
+Pilots must apply temperature compensation when the airport temperature is outside the operational temperature limitation in the remarks section on the instrument approach chart.
+
+It is recommend for pilots to apply temperature compensation during cold weather operations with terrain in the vicinity of the airport.
+
+Pilots are required to advise ATC when intending to apply temperature compensation. Provide
+the amount of correction required on initial contact, or as soon as practical, for the intermediate
+segment (initial intercept altitude) and the published missed approach holding point.
+
+Example:
+“N1640E REQUIRES 9,400 FT AT ADANE, 9,400 FT AT DRAKE FOR COLD
+WEATHER OPERATIONS.”
+
+
+Instrument Approach Procedures
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Approach with Vertical Guidance
+
+RNAV Approach Setup
+
+Load the correct approach for the intended procedure. Verify the WAAS channel if applicable.
+Verify the correct waypoints and altitudes are loaded.
+Set the BARO Minimums.
+
+
+RNAV Approach Minima 
+
+The 200ft ceilings or published, which ever is higher is required for the RNAV approach. These minimum are not required to begin the approach.  
+
+After passing the FAF, the crew may continue to DH if RVR drops below minimums. At DH,
+the pilot must have required visual reference.
+
+Contingency Plan
+
+When the ability to see or trust the FMS generated navigation course is compromised, it is
+imperative to have a simple plan.
+
+• Initially, maintain current heading.
+• Steer away from terrain.
+• Ask ATC for heading and altitude, or climb to MSA. Consider declaring an emergency.
+• Consider use of ground-based NAVAIDs.
+
+
+RNAV Profile
+
+
+
+ILS Approach Setup
+
+Verify the localizer frequency for the intended runway is active on NAV radio page.
+Verify the final approach course is set.
+Set the BARO Minimums.
+
+Initially, it is preferable to descend on the approach using VNAV. This ensures compliance
+with altitude constraints. Before passing the FAF, the navigation source should be localizer (LOC) and glide slope (GS).
+
+ILS Approach Minima 
+
+The 200ft ceilings or published, which ever is higher is required for the ILS CAT I approach. These minimum are not required to begin the approach.  
+
+After passing the FAF, the crew may continue to DH if RVR drops below minimums. At DH,
+the pilot must have required visual reference.
+
+ILS Profile
+
+
+
+
+Approach with Vertical Guidance Actions and Callouts
+
+
+
+
+Common errors
+Failure to have essential knowledge of the information on the instrument approach procedure chart.
+Incorrect communications procedures or noncompliance with ATC clearances.
+Failure to accomplish checklist items.
+Faulty basic instrument flying technique.
+Inappropriate application of DH/DA.
+
+Completion Standards
+Maintain altitude ±100 feet, selected heading ±10°, airspeed ±10 knots, and accurately track radials, courses, and bearings, prior to beginning the final approach segment.
+Maintain a stabilized final approach from the Final Approach Fix (FAF) to DA/DH allowing no more than 3⁄4-scale deflection of either the vertical or lateral guidance indications and maintain the desired airspeed ±10 knots.
+Maintain a stabilized visual flight path from the DA/DH to the runway aiming point where a normal landing may be accomplished within the touchdown zone.
+
+
+
+
+
+
+
+
+
+
+
+Approach Without Vertical Guidance
+
+The procedures presented herein are applicable to VOR, GPS (GNSS), and RNAV approaches.
+
+All approaches may be flown using the FMS as a primary source of navigation, however the gray preview needles must be available. If the gray preview needles are not available the CDI must be LOC / VOR in green needles.
+
+When a final path descent angle is defined on a non-precision approach, the use of VGP is
+recommended.
+
+Fly the intermediate approach conventionally, using HDG or NAV mode. Start the deceleration
+segment approaching the airport in radar vectors or using own navigation. Plan to have flaps
+10° when on the heading to intercept the final approach track.
+
+When cleared for the approach set the altitude selector to the approach minima. The pilot should use cation to meet intermediate crossing restrictions, such as the final approach fix.
+
+FMS DATABASE
+
+The approach procedure to be flown must be retrieved from the FMS database. A thorough
+verification of all waypoints, tracks, distances, glide path angles, altitude constraints, and
+threshold crossing altitudes must be verified and cross-checked during the approach briefings.
+
+VECTORS TO FINAL
+
+When on vectors to final approach, using the FMS as a primary source of navigation, the
+following applies:
+Use HDG lateral mode and FPA or V / S vertical mode until cleared to intercept the final
+approach course.
+On downwind leg, use the ACT VECTORS prompt to extend the final approach presentation.
+Arm LNAV through the APP or NAV button, only when cleared to intercept the final approach course.
+
+Approach Setup
+
+Load the correct approach for the intended procedure. Verify the LOC frequency is tuned on NAV radio page.
+Verify the correct waypoints and altitudes are loaded.
+Set the BARO Minimums.
+
+Initially, it is preferable to descend on the approach using VNAV. This ensures compliance
+with altitude constraints. Before passing the FAF, the navigation source should be FMS with gray preview needles or localizer (LOC).
+
+When cleared for the approach the altitude selector should be set to the approach minima. Use VNAV until the final approach fix, then flow the VGP if available, otherwise step downs will be required until reaching MDA.
+
+It is imperative the pilot does not descend below the MDA. Special emphasis is added by using the altitude selector to bug minimums.
+
+
+Approach Minima 
+
+The 200ft ceilings or published, which ever is higher is required for the LOC approach. These minimum are not required to begin the approach.  
+
+After passing the FAF, the crew may continue to DH if RVR drops below minimums. At DH,
+the pilot must have required visual reference.
+
+Approach Profiles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Approach without Vertical Guidance Actions and Callouts
+
+
+
+
+
+Circle-To-Land Approach
+
+GENERAL
+
+Circling may require maneuvers at low altitude, at low airspeed, and in marginal weather
+conditions. Pilots must use sound judgement, have an in-depth knowledge of their capabilities,
+and fully understand the aircraft performance. Factors such as weather, unique airport design,
+and the aircraft position, altitude, and airspeed must all be considered for a successful circling
+approach.
+
+Use the charted minima, but never less than 1,000 ft ceiling and 3 SM visibility.
+
+A circling-to-land approach consists of an instrument approach followed by a visual circling
+maneuver.
+
+Published circling minimum provide obstacle clearance (300 ft) when pilots remain within the
+appropriate protection area. During the circle-to-land maneuver, the aircraft must remain clear of clouds. Remain at an altitude not less than the charted circle-to-land MDA or 1,000 ft above
+the airport (HAA), whichever is higher, until the aircraft is in position for a normal descent to
+the landing runway.
+
+
+INSTRUMENT APPROACH
+
+Use any approved instrument approach.
+
+Approach Setup
+
+Set up the intended approach.
+Set the derived circling minimums with the BARO Minimums Selector. The derived circle-to-land MDA is either 1,000 ft HAA or the Category A circle-to-land minima, whichever is higher.
+Approach speed is 75 KIAS
+
+Before Circling
+Fully configured.
+Stabilized approach criteria must be met with the exception of:
+On lateral and vertical profile by 500 ft.
+Cleared for the Approach
+
+When cleared for the approach:
+Arm NAV. Do not arm APP.
+Verify LNAV is active.
+Verify VNAV is active.
+Set the derived minimum in the altitude selector. (Not less than the charted MDA or 1,000 ft above the airport (HAA), whichever is higher, rounded up to the next 100 ft increment.)
+At minimums, set the missed approach altitude and begin the visual circling maneuver.
+
+Before beginning the circling maneuver, the aircraft must be fully configured for landing.
+
+No Runway in Sight
+
+At minimums, if the runway is not in sight. Set the missed approach altitude and execute the Missed Approach Procedure.
+
+MISSED APPROACH
+If a missed approach is required while circling, make a climbing turn in the shortest direction
+toward the landing runway. Continue the turn until established on an intercept heading to the
+missed approach course corresponding to the instrument approach procedure just flown. This
+may result in a turn greater than 180° to intercept the missed approach course. Maintain
+the missed approach flap setting until close-in maneuvering is completed. Different patterns may be required to become established on the prescribed missed approach course. This depends on aircraft position at the time the missed approached is started. The following figures illustrate the maneuvering that may be required. This ensures the aircraft remains within the circling and missed approach obstruction clearance areas.
 Missed Approach
 
-Go-Around
+No approach is initiated, unless the prevailing conditions are understood, briefed, and a landing
+is anticipated without undue risk. Philosophically, all approaches are treated as approaches
+followed by a missed approach. A landing is treated as an alternate procedure. This mindset
+depends on a good approach briefing, on the knowledge of the missed approach procedure, and on proper programming of the FMS.
+
+Sufficient visual cues must exist to continue the approach below DA (DH) or MDA. When visual
+cues are lost, initiate a go-around immediately and fly the published missed approach procedure.
+
+91.175 Requires the flight visibility is not less than the visibility prescribed in the standard instrument approach being used; and
+	(i) The approach light system, except that the pilot may not descend below 100 feet 			above the touchdown zone elevation using the approach lights as a reference unless 			the red terminating bars or the red side row bars are also distinctly visible and				identifiable.
+	(ii) The threshold.
+	(iii) The threshold markings.
+	(iv) The threshold lights.
+	(v) The runway end identifier lights.
+	(vi) The visual glideslope indicator.
+	(vii) The touchdown zone or touchdown zone markings.
+	(viii) The touchdown zone lights.
+	(ix) The runway or runway markings.
+	(x) The runway lights.
+
+Although the PF is initially responsible for the go-around callout, the PM may also make this
+callout when it is not made in a timely manner. The PF’s immediate response to this callout by
+the PM is the execution of a go-around/missed approach.
+
+Conduct a missed approach as follows:
+
+When a go-around is required at any time while maneuvering in the traffic pattern and visual conditions cannot be maintained, perform a climbing turn toward the runway of intended landing
+When over the airport and climbing, turn (in the shortest direction) to the missed approach fix and proceed with the published procedure
+To initiate the go-around, apply go-around power.
+Sequence the missed approach procedure. If you are past the Missed Approach Point, press the activate missed approach when prompted by the FMS. Prior to the Missed Approach Point, the pilot must go to the flight plan page, select the missed approach and activate the leg.
+Retract flaps to 20° and rotate to an initial pitch of 5-7° nose up.
+With a positive rate of climb, retract the flaps to 10°
+At 1,000 ft AGL or obstacle clearance altitude, whichever is higher, accelerate to Vy and retract the flaps to 0°.
+When missed approach is activated, the missed approach procedure from the database is inserted into the FMS flight plan 
+When the missed approach is selected, the APR annunciator is cleared and the FMS transitions from the approach mode to the terminal mode.
+
+Missed Approach Fuel
+
+The estimated missed approach fuel is 3 gallons and 20 minutes.
+
+
+LANDINGS
+
+Land and Hold-Short Operations [LAHSO]
+
+Student Pilots are prohibited from performing Land and Hold-Short Operations.
+
+OVERVIEW
+
+For operational necessity ATC may request you to land and hold-short of a requested runway, taxi way or landmark intersection.
+Normal and Crosswind Landing
+Short Field Landing
+Soft Field Landing
+Power-Off 180 Landing
+Instrument Landing
+Missed ApproachGo-Around
 
 Initiating a Go-Around
 
