@@ -39,7 +39,10 @@ Complete change history of this document can be found in the repository.
 https://github.com/ProStandards/c172-sop
 
 V3.2 Mar 2022
+Renamed Introduction to Safety
+Replaced before takeoff check list to and below the line with run-up checklist and before takeoff checklist
 Approach section added.
+
 
 V3.1 Mar 2022
 Transponder operations added to before taxi checklist
@@ -82,8 +85,7 @@ Before Taxi - Bugs removed from checklist
 Before Taxi - Departure changed to Takeoff
 Decent - Arrival changed to Approach
 Decent - Errors corrected in checklist
-
-INTRODUCTION
+SAFETY
 
 
 OPERATIONAL PHILOSOPHY
@@ -448,7 +450,7 @@ To determine if it is safe to apply power check the following:
 
 	1. DO NOT OPERATE tag on the throttle
 	2. Aircraft Status by scanning the QR code
-	3. Maintenance Irregularities 
+	3. Open Mechanical Irregularities Reported
 
 If any of the three items are found it is not safe to operate the aircraft.
 	
@@ -533,6 +535,7 @@ The PIC should also be familiar with all available information including NOTAMs.
 
 An external inspection of the aircraft should be completed in accordance with the POH before each flight.
  
+
 FLOWS
 
 NOT APPLICABLE 
@@ -547,7 +550,7 @@ TASKS
 
 Fasten safety belts and shoulder harnesses.
 
-If there are sustained temperatures below 0 degrees, reference cold weather operations.
+If there are sustained temperatures below 0º C, reference cold weather operations.
 
 Batter Master Switch as necessary for before start operations
 
@@ -732,41 +735,15 @@ Operating with outdated navigation publications or databases.
 
 COMPLETION STANDARDS
 Perform preflight inspection by following the SOP procedures and determine that the airplane is in a condition for safe instrument flight.
-
-BEFORE TAKEOFF
+RUN-UP
 
 TASKS
-
-The Before Takeoff Checklist is divided into two portions. Before Takeoff Checklist above the line and Before Takeoff Checklist below the line. The line segments the engine runup from pre-departure procedures. The Before Takeoff Checklist above the line references the runup which is associated with the Before Takeoff Flow. The above the line portion and run-up only need to be completed prior to the first takeoff of the flight. Subsequent departures or pattern work only require the below the line portion on the checklist. When complex departures are not being complied with the PF may choose to complete all tasks and flows and complete the before takeoff checklist in its entirety.
 
 Turnoff the taxi light when parked to indicate to surrounding aircraft that you have no intention of movement.
 
 For engine run-up, position the aircraft into the wind if possible. This will provide maximum engine cooling while parked.
 
-Monitor tower frequency or CTAF in the runup area or approaching the hold short lines. Tune the next frequency to be used in the standby position. 
-
-Verify the flight instruments have no red x’s, no flags and are configured for departure. This includes: airspeed bug, altitude bug, heading bug, CDI setting.
-
-Verify that the MAG/TRUE navigation angle selection on the GI 275 and any interfaced navigators match.
-
-Ensure NAV frequencies are tuned, active and standby, and the GPS is programmed accordingly.
-
-Flaps should be confirmed or set for the appropriate takeoff configuration. 
-
-Doors must be closed during runup and takeoff. It is permissible to have the windows open for runup and takeoff.
-
-If departing into IMC conditions, turn the pitot heat on before takeoff.
-
-Bugs
-
-The flight instrument bugs should be set for departure.
-
-Airspeed bug - Set for the appropriate climb speed
-Altitude bug - Set for level off altitude
-Heading bug - Set for the departure runway
-
-
-
+Monitor tower frequency or CTAF in the run-up area or approaching the hold short lines. Tune the next frequency to be used in the standby position.
 
 FLOWS
 
@@ -788,6 +765,39 @@ Oil Temperature - Green
 Annunciators - Review displays for any abnormal warning, caution, or advisory indications.
 Carburetor Heat Check - Apply carburetor heat and note a drop in RPM. Leave the Carburetor heat applied for Idle check.
 Throttle - Full idle, verify the engine continues to run above 600 RPM. Close the carburetor heat.
+
+CHECKLIST
+
+
+BEFORE TAKEOFF
+
+TASKS
+
+Verify the flight instruments have no red x’s, no flags and are configured for departure. This includes: airspeed bug, altitude bug, heading bug, CDI setting.
+
+Verify that the MAG/TRUE navigation angle selection on the GI 275 and any interfaced navigators match.
+
+Ensure NAV frequencies are tuned, active and standby, and the GPS is programmed accordingly.
+
+Flaps should be confirmed or set for the appropriate takeoff configuration. 
+
+Doors must be closed during run-up and takeoff. It is permissible to have the windows open for run-up and takeoff.
+
+If departing into IMC conditions, turn the pitot heat on before takeoff.
+
+Bugs
+
+The flight instrument bugs should be set for departure.
+
+Airspeed bug - Set for the appropriate climb speed
+Altitude bug - Set for level off altitude
+Heading bug - Set for the departure runway
+
+
+
+
+FLOWS
+
 
 CHECKLISTS
 
@@ -1170,13 +1180,16 @@ CHECKLISTS
 
 
 
-Approaches
+APPROACHES
 
 Approaches with Vertical Guidance are recommend, when available.
 
 Observe strict adherence to standard callout procedures. Any doubt as to the approach’s success must lead to a go-around.
 
 The controls should be guarded throughout all phases of approach, landing and rollout. 
+
+
+
 
 
 Approach Deviation Callouts
@@ -1244,30 +1257,13 @@ WEATHER OPERATIONS.”
 
 
 Instrument Approach Procedures
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Approach with Vertical Guidance
 
 RNAV Approach Setup
 
-Load the correct approach for the intended procedure. Verify the WAAS channel if applicable.
+Load the correct approach for the intended procedure from the best suited initial approach fix. Verify the WAAS channel if applicable.
 Verify the correct waypoints and altitudes are loaded.
 Set the BARO Minimums.
-
 
 RNAV Approach Minima 
 
@@ -1288,6 +1284,10 @@ imperative to have a simple plan.
 
 
 RNAV Profile
+
+
+
+
 
 
 
@@ -1312,6 +1312,8 @@ ILS Profile
 
 
 
+
+
 Approach with Vertical Guidance Actions and Callouts
 
 
@@ -1327,19 +1329,7 @@ Inappropriate application of DH/DA.
 Completion Standards
 Maintain altitude ±100 feet, selected heading ±10°, airspeed ±10 knots, and accurately track radials, courses, and bearings, prior to beginning the final approach segment.
 Maintain a stabilized final approach from the Final Approach Fix (FAF) to DA/DH allowing no more than 3⁄4-scale deflection of either the vertical or lateral guidance indications and maintain the desired airspeed ±10 knots.
-Maintain a stabilized visual flight path from the DA/DH to the runway aiming point where a normal landing may be accomplished within the touchdown zone.
-
-
-
-
-
-
-
-
-
-
-
-Approach Without Vertical Guidance
+Maintain a stabilized visual flight path from the DA/DH to the runway aiming point where a normal landing may be accomplished within the touchdown zone.Approach Without Vertical Guidance
 
 The procedures presented herein are applicable to VOR, GPS (GNSS), and RNAV approaches.
 
@@ -1390,6 +1380,7 @@ The 200ft ceilings or published, which ever is higher is required for the LOC ap
 After passing the FAF, the crew may continue to DH if RVR drops below minimums. At DH,
 the pilot must have required visual reference.
 
+
 Approach Profiles
 
 
@@ -1406,11 +1397,19 @@ Approach Profiles
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 Approach without Vertical Guidance Actions and Callouts
-
-
-
-
 
 Circle-To-Land Approach
 
@@ -1467,8 +1466,7 @@ If a missed approach is required while circling, make a climbing turn in the sho
 toward the landing runway. Continue the turn until established on an intercept heading to the
 missed approach course corresponding to the instrument approach procedure just flown. This
 may result in a turn greater than 180° to intercept the missed approach course. Maintain
-the missed approach flap setting until close-in maneuvering is completed. Different patterns may be required to become established on the prescribed missed approach course. This depends on aircraft position at the time the missed approached is started. The following figures illustrate the maneuvering that may be required. This ensures the aircraft remains within the circling and missed approach obstruction clearance areas.
-Missed Approach
+the missed approach flap setting until close-in maneuvering is completed. Different patterns may be required to become established on the prescribed missed approach course. This depends on aircraft position at the time the missed approached is started. The following figures illustrate the maneuvering that may be required. This ensures the aircraft remains within the circling and missed approach obstruction clearance areas.Missed Approach
 
 No approach is initiated, unless the prevailing conditions are understood, briefed, and a landing
 is anticipated without undue risk. Philosophically, all approaches are treated as approaches
@@ -1505,6 +1503,7 @@ With a positive rate of climb, retract the flaps to 10°
 At 1,000 ft AGL or obstacle clearance altitude, whichever is higher, accelerate to Vy and retract the flaps to 0°.
 When missed approach is activated, the missed approach procedure from the database is inserted into the FMS flight plan 
 When the missed approach is selected, the APR annunciator is cleared and the FMS transitions from the approach mode to the terminal mode.
+
 
 Missed Approach Fuel
 
@@ -1572,6 +1571,7 @@ CA.IV.N.S7	Maintain VY ±5 knots to a safe maneuvering altitude.
 Aborted / Bounced Landing
 
 OVERVIEW
+
 An aborted or bounced landing can occur for a variety of reasons:
 Wind shear
 Low-level turbulence
@@ -1581,6 +1581,7 @@ Power not at idle during touchdown
 Incorrect flare technique
 
 OBJECTIVE
+
 To develop the student’s ability to correctly recover from an aborted or bounced landing. 
 
 PROCEDURE
@@ -1626,7 +1627,7 @@ In CRM situations the PF should continue taxing while the PM completes the after
 
 Flaps
 
-During normal operations, when returning to parking set the flaps to 0. If there is a plan to taxi back to the runway for traffic patter work and the planned departure requires flaps 10, set them accordingly. 
+During normal operations, when returning to parking set the flaps to 0. If there is a plan to taxi back to the runway for traffic patter work and the planned departure requires flaps 10, set the flaps accordingly. 
 
 The flaps may already be up after completing a short field landing.
 
